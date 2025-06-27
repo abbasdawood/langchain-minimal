@@ -1,5 +1,4 @@
 langchain
 langserve
-openai
 fastapi
-uvicorn
+ollama
