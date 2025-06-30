@@ -1,4 +1,7 @@
-langchain
-langserve
 fastapi
-ollama
+uvicorn[standard]
+langserve
+langchain
+langchain-community
+langchain-core
+pydantic
